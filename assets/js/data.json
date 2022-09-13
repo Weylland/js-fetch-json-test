@@ -1,0 +1,18 @@
+[
+    {
+        "img": "./assets/img/rond_rouge.png",
+        "text": "Je suis un rond rouge bonjour !"
+    },
+    {
+        "img": "./assets/img/carre_rouge.png",
+        "text": "Moi je suis un carré rouge he he !"
+    },
+    {
+        "img": "./assets/img/triangle_rouge.png",
+        "text": "Je suis un triangle avec la tête en bas !"
+    },
+    {
+        "img": "./assets/img/etoile_rouge.png",
+        "text": "J'ai la tête dans l'espace c'est normal je suis une étoile mdr jpp !"
+    }
+]
